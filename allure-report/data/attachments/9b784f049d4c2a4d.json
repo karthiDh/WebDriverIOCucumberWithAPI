@@ -1,0 +1,39 @@
+{
+  "id": {
+    "sessionId": "869d050ac41a22ba8ae836aa88c7bf65",
+    "elementId": "db7052fd-2b7b-4b61-b039-e283c36a7bb5",
+    "element-6066-11e4-a52e-4f735466cecf": "db7052fd-2b7b-4b61-b039-e283c36a7bb5",
+    "selector": "#braintree-hosted-field-number",
+    "parent": {
+      "sessionId": "869d050ac41a22ba8ae836aa88c7bf65",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "108.0.5359.99",
+        "chrome": {
+          "chromedriverVersion": "108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016})",
+          "userDataDir": "C:\\Users\\M1068474\\AppData\\Local\\Temp\\scoped_dir5444_1147443575"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:63204"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@class=\"shippingOption-desc\"][contains(text(),\"Rush\")]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"previewCartAction-checkout\"]/a[@data-action-detail=\"Checkout_now\"]"
+}

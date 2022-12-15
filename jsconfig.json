@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "types": [
+            "node",
+            "@wdio/types",
+            "@wdio/globals/types",
+            "@wdio/Cucumber-framework",
+            "expect-webdriverio"
+        ]
+    }
+}

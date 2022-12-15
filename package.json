@@ -1,0 +1,40 @@
+{
+    "name": "karthicucumber",
+    "version": "1.0.0",
+    "description": "cucumber framework",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "wdio": "wdio run wdio.conf.js",
+        "wdioBstack": "wdio run wdio.conf.bstack.js"
+    },
+    "author": "Karthik",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.20.5",
+        "@babel/preset-env": "^7.20.2",
+        "@babel/register": "^7.18.9",
+        "@types/supertest": "^2.0.12",
+        "@wdio/allure-reporter": "^8.0.11",
+        "@wdio/appium-service": "^8.0.11",
+        "@wdio/browserstack-service": "^8.0.11",
+        "@wdio/cli": "^8.0.12",
+        "@wdio/cucumber-framework": "^8.0.11",
+        "@wdio/local-runner": "^8.0.12",
+        "@wdio/spec-reporter": "^8.0.11",
+        "@wdio/types": "^8.0.11",
+        "chromedriver": "^108.0.0",
+        "supertest": "^6.3.3",
+        "wdio-allure-reporter": "^0.8.3",
+        "wdio-chromedriver-service": "^8.0.1",
+        "wdio-edgedriver-service": "^2.1.1",
+        "wdio-intercept-service": "^4.3.0"
+    },
+    "dependencies": {
+        "allure-commandline": "^2.20.1",
+        "axios": "^1.2.1",
+        "wdio-html-nice-reporter": "^8.0.6",
+        "wdio-timeline-reporter": "^5.1.4",
+        "wdio-video-reporter": "^3.3.0"
+    }
+}
